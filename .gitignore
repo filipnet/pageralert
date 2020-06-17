@@ -1,0 +1,5 @@
+.pio/
+.vscode/
+backup/
+credentials.h
++credentials.h.sample
