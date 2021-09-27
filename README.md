@@ -20,7 +20,7 @@ Secondary alarm in addition to the digital radio message receiver on the mobile 
 
 <!-- /TOC -->
 
-## Link to the full project
+## LINK TO THE FULL PROJECT
 You can find the completely described project on my website https://www.filipnet.de/secondary-alarm/
 
 ## FEATURES
