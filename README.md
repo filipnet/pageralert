@@ -10,7 +10,7 @@ Secondary alarm in addition to the digital radio message receiver on the mobile 
     - [INSTALL AND USAGE](#install-and-usage)
         - [PINOUT](#pinout)
         - [SWISSPHONE LGRA 300/429 5-POLE DIN CONNECTOR](#swissphone-lgra-300429-5-pole-din-connector)
-        - [LIBRARIES (#libraries-)
+        - [LIBRARIES](#libraries)
     - [DIRECTORIES AND FILES](#directories-and-files)
     - [AUTOMATION WITH NODE-RED](#automation-with-node-red)
         - [PLUGIN REQUIREMENTS](#plugin-requirements)
