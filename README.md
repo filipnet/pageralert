@@ -9,8 +9,8 @@ Secondary alarm in addition to the digital radio message receiver on the mobile 
     - [REQUIREMENTS](#requirements)
     - [INSTALL AND USAGE](#install-and-usage)
         - [PINOUT](#pinout)
-        - [Swissphone LGRA 300/429 5-Pole DIN Connector](#swissphone-lgra-300429-5-pole-din-connector)
-        - [LIBRARIES ###](#libraries-)
+        - [SWISSPHONE LGRA 300/429 5-POLE DIN CONNECTOR](#swissphone-lgra-300429-5-pole-din-connector)
+        - [LIBRARIES (#libraries-)
     - [DIRECTORIES AND FILES](#directories-and-files)
     - [AUTOMATION WITH NODE-RED](#automation-with-node-red)
         - [PLUGIN REQUIREMENTS](#plugin-requirements)
@@ -54,13 +54,13 @@ Secondary alarm in addition to the digital radio message receiver on the mobile 
 | DIN Sub-5 Cable | 5/5	RED | Relay contact | - | Bridged to Arduino D3 PIN  |
 | Arduino | - | - | D3 | From D3 to Relay contact to GND - Input with pullup - so you dont need an external resistor |
 
-### Swissphone LGRA 300/429 5-Pole DIN Connector
+### SWISSPHONE LGRA 300/429 5-POLE DIN CONNECTOR
 
 The following is a schematic drawing from the instructions guide of the Pager for the DIN connector
 
 <img src="images/lgra-300-429-5-pole-din-connector.png" alt="Swissphone LGRA 300/429 5-Pole DIN Connector" width="850"/>
 
-### LIBRARIES ###
+### LIBRARIES
 
 - PubSubClient by Nick O'Leary
 - esp8266_mdns by dunk
