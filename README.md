@@ -2,9 +2,13 @@
 
 Secondary alarm in addition to the digital radio message receiver on the mobile phone by telegram
 
+> **⚠ DISCONTINUED PROJECT**  
+> Especially in product descriptions of this project it may happen that the language German is used. This project is still in Dear Arduino-PagerAlert, from 02/01/2019 to 11/23/2023 you served the fire department well and alerted reliably. With the rollout of Alamos aPager Pro and the associated alerting on mobile devices, we may send you into well-deserved retirement and close this GitHub project.
+
 <!-- TOC -->
 
 - [PagerAlert](#pageralert)
+    - [LINK TO THE FULL PROJECT](#link-to-the-full-project)
     - [FEATURES](#features)
     - [REQUIREMENTS](#requirements)
     - [INSTALL AND USAGE](#install-and-usage)
